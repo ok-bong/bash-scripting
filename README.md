@@ -4,17 +4,17 @@ A collection of practical Bash scripts for Linux system administration. These sc
 
 ## Contents
 
-**Backup scripts**: Performs backups using the rsync utility. It allows you to synchronise files and directories from a source directory to a target directory.
+- **Backup scripts**: Performs backups using the rsync utility. It allows you to synchronise files and directories from a source directory to a target directory.
 
-**Map network drive**: Map a network drive on your system using either Bash or PowerShell.
+- **Map network drive**: Map a network drive on your system using either Bash or PowerShell.
 
-**Network scanner**: Performs a network scan using the nmap tool to discover hosts that are alive on a specified network.
+- **Network scanner**: Performs a network scan using the nmap tool to discover hosts that are alive on a specified network.
 
-**Package management**: Simplifies package installation, updates, and removal on a Linux system using the APT package manager.
+- **Package management**: Simplifies package installation, updates, and removal on a Linux system using the APT package manager.
 
-**Universal update**: Automates the process of updating system packages on various Linux distributions. It detects the distribution type and uses the appropriate package manager to perform the update.
+- **Universal update**: Automates the process of updating system packages on various Linux distributions. It detects the distribution type and uses the appropriate package manager to perform the update.
 
-**User management**: Simplify user account management tasks, such as adding, modifying, or deleting users.
+- **User management**: Simplify user account management tasks, such as adding, modifying, or deleting users.
 
 Each script is stored in a dedicated folder, containing the script itself and an associated README file providing instructions on usage and examples.
 
